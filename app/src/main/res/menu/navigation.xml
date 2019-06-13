@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/generalList"
+        android:icon="@drawable/cart"
+        android:title="@string/title_general"
+
+        />
+
+    <item
+        android:id="@+id/matchList"
+        android:icon="@drawable/thumb_up"
+        android:title="@string/title_match"
+
+    />
+
+    <item
+        android:id="@+id/suggestionList"
+        android:icon="@drawable/star_four_points"
+        android:title="@string/title_suggestion" />
+
+</menu>
